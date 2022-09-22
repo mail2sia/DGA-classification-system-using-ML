@@ -1,1 +1,1 @@
-# investigation-with-a-DGA-classification-system-using-ML
+# Investigation-with-a-DGA-classification-system-using-ML

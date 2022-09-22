@@ -1,1 +1,1 @@
-# investigation-on-a-URL-database-to-develop-a-DGA-classification-system-using-ML
+# investigation-with-a-DGA-classification-system-using-ML
